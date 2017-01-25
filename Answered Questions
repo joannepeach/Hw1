@@ -1,0 +1,8 @@
+What does the rect function do?
+Rect function creates a rectangle by specifying the width and height.
+What does the rectMode function do?
+It allows different modes such as "CENTER" AND "CORNER" to be the instruction including in creating the rectangle.
+What is a pixel?
+It is an illumination on a display screen that composes an image.
+What is HSB?
+Hue, saturation, and brightness
